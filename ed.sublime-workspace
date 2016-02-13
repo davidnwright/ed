@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Data",
+				"DataFrame"
+			],
+			[
+				"Author",
+				"AuthorID"
+			],
+			[
+				"creat",
+				"create_date_range"
+			],
+			[
+				"crea",
+				"create_date_range"
+			],
+			[
+				"authr",
+				"authors_list"
+			],
+			[
+				"Au",
+				"AuthorID"
+			],
+			[
+				"colu",
+				"column_dict"
+			],
+			[
+				"json",
+				"json_dict"
+			],
+			[
+				"jso",
+				"json_dict"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mas",
+				"masthead-title"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 195.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/elotroalex/Dropbox/www/itsb/drop-merge.py",
+		"/Users/elotroalex/Dropbox/www/itsb/snippets.py",
+		"/Users/elotroalex/Dropbox/www/itsb/itinerary.csv",
+		"/Users/elotroalex/Dropbox/www/itsb/concat-merge.py",
+		"/Users/elotroalex/Dropbox/www/itsb/merge-merge.py",
+		"/Users/elotroalex/Dropbox/www/itsb/author-concat.py",
+		"/Users/elotroalex/Dropbox/www/itsb/pandas-json.py",
+		"/Users/elotroalex/Dropbox/www/itsb/author-place.py",
+		"/Users/elotroalex/Dropbox/www/itsb/ftest.py",
+		"/Users/elotroalex/Dropbox/www/itsb/author-place2.py",
+		"/Users/elotroalex/Dropbox/www/itsb/snippets.txt",
+		"/Users/elotroalex/Dropbox/www/F2015020/python/itinerary.csv",
+		"/Users/elotroalex/Desktop/json_dict.json",
+		"/Users/elotroalex/Desktop/testdata.json",
+		"/Users/elotroalex/Dropbox/www/F2015020/python/snippets.md",
+		"/Users/elotroalex/Desktop/dic_test.py",
+		"/Users/elotroalex/Dropbox/www/F2015020/python/pandas-json.py",
+		"/Users/elotroalex/Dropbox/www/F2015020/python/csv-json.py",
+		"/Users/elotroalex/Dropbox/www/F2015020/python/intersections.csv",
+		"/Users/elotroalex/Dropbox/www/F2015020/python/itsb-csv-json.py",
+		"/Users/elotroalex/Dropbox/www/F2015020/python/itsb-test.py",
+		"/Users/elotroalex/Dropbox/www/F2015020/python/dic_test.py",
+		"/Users/elotroalex/Dropbox/www/F2015020/python/test.py",
+		"/Users/elotroalex/Dropbox/www/ed/index.html",
+		"/Users/elotroalex/Dropbox/www/ed/public/css/ed.css",
+		"/Users/elotroalex/Dropbox/www/ed/_posts/2016-01-16-narrative.md",
+		"/Users/elotroalex/Dropbox/www/ed/README.md",
+		"/Users/elotroalex/Dropbox/www/ed/_config.yml",
+		"/Users/elotroalex/Dropbox/www/ed/documentation.md",
+		"/Users/elotroalex/Dropbox/www/ed/_layouts/narrative.html",
+		"/Users/elotroalex/Dropbox/www/ed/about.md",
+		"/Users/elotroalex/Dropbox/www/ed/_includes/sidebar-opt.html",
+		"/Users/elotroalex/Dropbox/www/ed/_posts/2016-01-16-dreams.md",
+		"/Users/elotroalex/Dropbox/www/ed/_includes/sidebar-toc.html",
+		"/Users/elotroalex/Dropbox/www/ed/_posts/2016-01-16-a-julia.md",
+		"/Users/elotroalex/Dropbox/www/ed/_posts/2016-01-16-raising.md",
+		"/Users/elotroalex/Dropbox/www/ed/_posts/2016-01-16-o-captain.md",
+		"/Users/elotroalex/Dropbox/www/ed/_posts/2016-01-16-delayed.md",
+		"/Users/elotroalex/Dropbox/www/ed/public/css/poole.css",
+		"/Users/elotroalex/Dropbox/www/ed/public/css/lanyon.css",
+		"/Users/elotroalex/Dropbox/www/ed/_includes/head.html",
+		"/Users/elotroalex/Dropbox/www/ed/_includes/sidebar.html",
+		"/Users/elotroalex/Dropbox/www/ed/index (Alex’s MacBook Pro's conflicted copy 2016-01-30).html",
+		"/Users/elotroalex/Dropbox/www/ed/_layouts/poem.html",
+		"/Users/elotroalex/Dropbox/www/ed/_bibliography/references.bib",
+		"/Users/elotroalex/Dropbox/www/ed/_layouts/drama.html",
+		"/Users/elotroalex/Dropbox/www/ed/_posts/2016-01-16-delayed",
+		"/Users/elotroalex/Dropbox/www/ed/bibliography.md",
+		"/Users/elotroalex/Dropbox/www/ed/Rakefile",
+		"/Users/elotroalex/Dropbox/www/ed/_layouts/default.html",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_includes/sidebar.html",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_layouts/bibtex.html",
+		"/Users/elotroalex/.bash_profile",
+		"/Users/elotroalex/Dropbox/www/non-vicious/README.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_includes/head.html",
+		"/Users/elotroalex/Dropbox/www/non-vicious/index.html",
+		"/Users/elotroalex/Dropbox/www/non-vicious/bibliography.md",
+		"/Users/elotroalex/Desktop/references.bib",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_config.yml",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-01-incantation.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_bibliography/mla",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-08-statue.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-04-dead-at-dawn.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-03-spirals.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-02-raining-blues.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-05-blank-to-fill.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/public/css/ed.css",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-06-fetters.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-07-one-potato.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_extra/reg-ex.txt",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-17-spirals.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_extra/non-vicious.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-17-incantation.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-18-dead-at-dawn.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-17-statue.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-17-one-potato.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-17-fetters.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-17-blank-to-fill.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-17-raining-blues.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-17-dead-at-dawn.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-18-spirals.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/reg-ex.txt",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-16-o-captain.md",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_layouts/default.html",
+		"/Users/elotroalex/Desktop/non-vicious.md",
+		"/Users/elotroalex/Desktop/non-vicious.html",
+		"/Users/elotroalex/Dropbox/www/non-vicious/_posts/2016-01-16-dreams.md",
+		"/Users/elotroalex/Desktop/dc3.rdf",
+		"/Users/elotroalex/Desktop/dc.rdf",
+		"/Users/elotroalex/Desktop/dc2.rdf",
+		"/Users/elotroalex/Dropbox/www/ed/Gemfile",
+		"/Users/elotroalex/Dropbox/www/ed/Gemfile.lock",
+		"/Users/elotroalex/Desktop/narrative.md",
+		"/Users/elotroalex/Dropbox/www/ed/_layouts/post.html",
+		"/Users/elotroalex/Dropbox/www/ed/_layouts/poems.html",
+		"/Users/elotroalex/Dropbox/www/min-ed/_posts/poems/2016-01-15-introducing-ed.md",
+		"/Users/elotroalex/Dropbox/www/min-ed/index.html",
+		"/Users/elotroalex/Dropbox/www/min-ed/_posts/poems/2016-01-16-pur-sang.md",
+		"/Users/elotroalex/Dropbox/www/min-ed/incantation.md",
+		"/Users/elotroalex/Dropbox/www/min-ed/_layouts/poem.html",
+		"/Users/elotroalex/Dropbox/www/min-ed/public/css/poole.css",
+		"/Users/elotroalex/Dropbox/www/min-ed/public/css/lanyon.css",
+		"/Users/elotroalex/Dropbox/www/min-ed/_config.yml",
+		"/Users/elotroalex/Dropbox/www/min-ed/_posts/2016-01-16-pur-sang.md",
+		"/Users/elotroalex/Dropbox/www/min-ed/about.md",
+		"/Users/elotroalex/Dropbox/www/min-ed/_includes/head.html",
+		"/Users/elotroalex/Dropbox/www/min-ed/_layouts/post.html",
+		"/Users/elotroalex/Dropbox/www/min-ed/_posts/2016-01-15-introducing-ed.md",
+		"/Users/elotroalex/Dropbox/www/min-ed/.editorconfig",
+		"/Users/elotroalex/Desktop/stack-chips.sql",
+		"/Users/elotroalex/Desktop/chips.css",
+		"/Users/elotroalex/Dropbox/Unofficial MLA 2016 List of “Digital Humanities” Sessions.txt",
+		"/Users/elotroalex/Desktop/hipwords/inc/template-tags.php",
+		"/Users/elotroalex/Desktop/thesaltbox/index.html",
+		"/Users/elotroalex/Desktop/thesaltbox/_config.yml",
+		"/Users/elotroalex/Desktop/lanyon-master/_config.yml",
+		"/Users/elotroalex/Desktop/master/_config.yml",
+		"/Users/elotroalex/Desktop/master/index.html",
+		"/Users/elotroalex/Desktop/master/_posts/2014-01-01-example-content.md",
+		"/Users/elotroalex/Desktop/master/_posts/2015-12-12-coming-soon.md",
+		"/Users/elotroalex/Desktop/lanyon-master/_layouts/default.html",
+		"/Users/elotroalex/Desktop/lanyon-master/_includes/head.html",
+		"/Users/elotroalex/Desktop/lanyon-master/_posts/2013-12-31-whats-jekyll.md",
+		"/Users/elotroalex/Dropbox/to_read.txt",
+		"/Users/elotroalex/Dropbox/itsb-notes",
+		"/Users/elotroalex/Dropbox/www/d3-tutorial/sankey/3col.html",
+		"/Users/elotroalex/Dropbox/www/d3-tutorial/sankey/variants/test.html",
+		"/Users/elotroalex/Dropbox/www/d3-tutorial/sankey/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"[0]",
+			"[i]",
+			"i",
+			"dfa",
+			"csvfile",
+			"Beijing",
+			"dfs",
+			"[2]",
+			"[0]",
+			"1",
+			"df",
+			"Ar",
+			"dataframe",
+			"Ar",
+			"ar",
+			";",
+			"sidebar",
+			"<<<",
+			">>>",
+			"<<<",
+			"< HEAD",
+			"Head",
+			"{",
+			"}",
+			"toc",
+			"/toc",
+			"toc",
+			"|",
+			"The Narrative",
+			"category",
+			"ch",
+			"-",
+			"#",
+			"pages_list",
+			".container",
+			"Footnotes",
+			"↩",
+			"reverse",
+			"footnote",
+			"reversefootnote",
+			"reverse footnote",
+			"in Ed",
+			"Github",
+			"syntax",
+			"homepage",
+			"Kramdown",
+			"<br><br>",
+			"Jack ",
+			"jack",
+			"narrative of",
+			"jekyll serve",
+			".poem",
+			"o, yea",
+			"o, yeah",
+			"o yea",
+			"o yeah",
+			"- \n",
+			"master",
+			"beginners",
+			"side",
+			"sideline",
+			"<br>",
+			"fn2",
+			"*",
+			"go to Baltim",
+			"<br>",
+			"*{: class=\"indent-",
+			"{:.indent-",
+			":.indent",
+			"*{: class=\"indent-",
+			"<br>",
+			"Gemfile",
+			"we ",
+			"sidebar",
+			"em.",
+			"em",
+			"indent",
+			"span",
+			"as follows",
+			":—",
+			":-",
+			"ol",
+			"</p>\n<p class=\"centered\">",
+			"[c",
+			"h1",
+			"his",
+			"link_to",
+			"McGann",
+			"Byron",
+			"rtf",
+			"Byron",
+			"rft.btitle",
+			"rft",
+			"book",
+			"Césaire",
+			"span",
+			"spirals",
+			"Spirals]",
+			"Spirals",
+			"toc",
+			"below",
+			"^fn",
+			"lorsque",
+			"<br><br>",
+			"indent-2",
+			">",
+			"^fn",
+			"[^]",
+			"\\[[0-9]+.*\\]\\(.*[0-9]+\\)",
+			"\\",
+			"[^fn",
+			"[^fn1]",
+			"[^]",
+			"^fn",
+			"[^fn",
+			"\\[[0-9]+.*\\]\\(.*[0-9]+\\)",
+			"-9",
+			"-7",
+			"-4",
+			"\\",
+			"[^]",
+			"^fn",
+			"\\[[0-9]+.*\\]\\(.*[0-9]+\\)",
+			"\\",
+			"[^]",
+			"^fn",
+			"\\[[0-9]+.*\\]\\(.*[0-9]+\\)",
+			"[^]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"SELECT * FROM"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true
+}
